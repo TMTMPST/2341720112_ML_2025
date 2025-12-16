@@ -246,11 +246,11 @@ Setelah proses `git push` selesai 100%:
 
 ### Screenshot Hasil Deployment
 
-**Tampilan Awal Aplikasi:**
+**Tampilan Awal Huggingface:**
 
 ![Tampilan Home](daynight-project/IMG/image1.png)
 
-**Hasil Prediksi Day (Siang):**
+**Tampilan Awal Space:**
 
 ![Prediksi Day](daynight-project/IMG/image%20copy.png)
 
@@ -258,7 +258,7 @@ Setelah proses `git push` selesai 100%:
 
 ![Prediksi Night](daynight-project/IMG/image%20copy%202.png)
 
-**Status Space Running:**
+**Gambar Yang digunakan untuk test:**
 
 ![Space Running](daynight-project/IMG/images.jpg)
 
